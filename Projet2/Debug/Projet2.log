@@ -1,28 +1,114 @@
 ﻿  Balle.cpp
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(28,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(30,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(30,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(54,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(54,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(70,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(70,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(72,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(72,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(71,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(75,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(97,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(97,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(112,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(114,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(114,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Jeu.cpp
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(70,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(70,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(72,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(72,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(71,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(75,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(97,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(97,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(112,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(114,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(114,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Raquette.cpp
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(71,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(75,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
   main.cpp
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(28,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(30,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(30,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(54,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(54,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(21,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(70,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
           with
           [
               T=float
           ]
-C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(21,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(70,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
           with
           [
               T=float
           ]
-C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(23,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(23,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(37,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(41,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(72,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Brique.h(72,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(46,26): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(48,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(71,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Raquette.h(75,15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(97,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(97,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(112,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(114,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(114,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
   Génération de code en cours...
+C:\Users\sdf07\source\repos\Projet2\Projet2\Balle.h(150): warning C4715: 'BalleJeu::Game_over' : les chemins de contrôle ne retournent pas tous une valeur
   Projet2.vcxproj -> C:\Users\sdf07\source\repos\Projet2\Debug\Projet2.exe

@@ -143,11 +143,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Balle.cpp" />
+    <ClCompile Include="Brique.cpp" />
+    <ClCompile Include="Jeu.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Raquette.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Balle.h" />
+    <ClInclude Include="Brique.h" />
+    <ClInclude Include="Jeu.h" />
     <ClInclude Include="Raquette.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
